@@ -1,6 +1,6 @@
 # Installing_ROS
 
-Video Tutorial of installing ROS: https://www.youtube.com/watch?v=GBBQqiGvOSw&feature=youtu.be </br>
+Video Tutorial for installing ROS: https://www.youtube.com/watch?v=GBBQqiGvOSw&feature=youtu.be </br>
 Full Tutorial Series: https://bit.ly/rostutorials
 
 The below commands are for installing ROS Kinetic Kame on Ubuntu 16.04 </br>
