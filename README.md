@@ -55,7 +55,7 @@ sudo apt install python-catkin-tools
 sudo apt-get install ros-kinetic-tf-*
 ```
 ```
-sudo apt-get install ros-kinetic-pcl-mgs ros-kinetic-mav-msgs ros-kinetic-mavros ros-kinetic-octomap-* ros-kinetic-geographic-msgs libgeographic-dev
+sudo apt-get install ros-kinetic-pcl-msgs ros-kinetic-mav-msgs ros-kinetic-mavros ros-kinetic-octomap-* ros-kinetic-geographic-msgs libgeographic-dev
 ```
 
 ### Creating Catkin Workspace
