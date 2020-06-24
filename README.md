@@ -1,10 +1,15 @@
 # Installing_ROS
+INSTALLING & GETTING STARTED WITH ROS | How to install ROS & How to setup Catkin Workspace on Ubuntu
 
-Video Tutorial for installing ROS: https://www.youtube.com/watch?v=GBBQqiGvOSw&feature=youtu.be </br>
+Check out the full video tutorial by clicking on the image:<br>
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/GBBQqiGvOSw/hqdefault.jpg?sqp=-oaymwEZCPYBEIoBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLDVreKTvUKQUp8S3WowXtV6CEml4A)](https://youtu.be/CPDDBVeIyLw)
+
 Full Tutorial Series: https://bit.ly/rostutorials
 
 The below commands are for installing ROS Kinetic Kame on Ubuntu 16.04 </br>
 Commands to install other versions of ROS will be updated soon. But you can even try to install those just by replacing ros-kinetic with ros-<your_distro_name> in the given commands. You can click on watch repository icon to know whenever I update the commands.
+
+If you find these steps useful, please give a ⭐ to this repository by clicking on the option on top-right corner of the page 🙂
 
 ### Setup sources.list
 ```
@@ -101,3 +106,7 @@ gazebo -v
 http://wiki.ros.org/ROS/Tutorials </br>
 Try to complete the Begineer Level tutorials. </br>
 If you have any doubts, you can let me know!
+
+If you have reached till here and found these steps helpful,<br>
+please give a ⭐ to this repository by clicking on the option on top-right corner of the page 🙂<br>
+This will help me make more such useful tutorials for you. Thank You! ✌🏻
